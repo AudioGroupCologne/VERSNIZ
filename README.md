@@ -1,4 +1,4 @@
-# Metabeat
+# VERSNIZ
 
 Repository for VERSNIZ, IBNIZ live coding in the metaverse
 
